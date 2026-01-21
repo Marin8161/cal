@@ -1,0 +1,8 @@
+
+{
+  "name": "悦食 AI - 食物热量追踪",
+  "description": "专为健身和减肥人群设计的 AI 驱动食物识别与热量追踪应用。只需拍张照片，即可瞬间获取营养信息。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
